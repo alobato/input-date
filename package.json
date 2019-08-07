@@ -1,0 +1,34 @@
+{
+  "name": "@alobato/input-date",
+  "version": "1.0.0",
+  "description": "Input with pt-BR date mask react component",
+  "main": "index.js",
+  "repository": "github:alobato/input-date",
+  "author": "alobato",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "react",
+    "input-date"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "peerDependencies": {
+    "react": "^16.8.0"
+  },
+  "devDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "dependencies": {
+    "styled-components": "^4.3.2",
+    "styled-system": "^5.0.20"
+  },
+  "bugs": {
+    "url": "https://github.com/alobato/input-date/issues"
+  },
+  "homepage": "https://github.com/alobato/input-date#readme"
+}
